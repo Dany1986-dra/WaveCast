@@ -17,7 +17,7 @@ WaveCast es una plataforma web moderna para reproducir y descubrir podcasts, ins
 
 ## 🚀 Demo
 
-[Ver Demo en Vivo]()
+[Ver Demo en Vivo](https://dany1986-dra.github.io/WaveCast/)
 
 ## 🛠️ Tecnologías Utilizadas
 
@@ -155,8 +155,8 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 ## 👨‍💻 Autor
 
 **Tu Nombre**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- LinkedIn: [Tu Perfil](https://linkedin.com/in/tu-perfil)
+- GitHub: [@Dany1986-dra](https://github.com/Dany1986-dra)
+- LinkedIn: [Daniel Rivera Alpízar](https://linkedin.com/in/daniel-rivera-alpízar)
 
 ## 🙏 Agradecimientos
 
